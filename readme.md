@@ -1,12 +1,32 @@
+```json
+{
+    "properties": {
+        "setup": {
+            "language": ["php", "js", "python", "vba"],
+            "other": ["html", "css", "sql"],
+            "framework": ["vanilla"],
+            "environment": ["notebook", "win10", "vsc", "commercial webspace"]
+        },
+        "dev": {
+            "professional": false,
+            "special": null,
+            "preference": ["algorithms", "forms", "dataprocessing"],
+            "objective": ["curiosity", "automation", "devops"],
+            "init": {
+                "web_frontend": 1999,
+                "web_backend": 2005,
+                "python": 2018,
+                "vba": 2019
+            },
+            "required": ["feedback on quality and practices", "approval"]
+        },
+        "trivia": {
+            "dependencies": ["electronic music", "doctor who"],
+            "other": ["craftsman", "married", "father"],
+            "website": "https://erroronline.one",
+            "networks": null,
+            "expectation": null
+        }
+    }
+}
 ```
-Fatal error: Uncaught Error: Call to undefined function hello_world() in /erroronline1:1
-Stack trace:
-#0 {main}
-  thrown in /erroronline1 on line 1
-```
-
-non professional. coding. enthusiast. web dev, enjoying the beauty of algorithms, forms and dataprocessing. lately adding devops to my fancy buzzword-list.
-
-i think i do cool stuff, but there isn't anyone to tell me otherwise anyway. beside being called html-programmer by non-programmers.
-
-longing for serious feedback to improve any of my frameworks, code quality and practices.
